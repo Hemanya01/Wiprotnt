@@ -1,0 +1,3 @@
+Hello Wipro
+Welcome to IO Streams
+This is a file copy program.
