@@ -1,4 +1,4 @@
-package com.wipro.test1;
+package com.wipro.test;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
